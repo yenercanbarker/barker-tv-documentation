@@ -1,6 +1,6 @@
 ---
 description: >-
-  In this page, you will see What Barker TV provides? and you can figure it out
+  In this page, you will see What Barker TV provides, and you can figure it out
   Why it is the best.
 ---
 
@@ -33,24 +33,24 @@ description: >-
 
 ### Editable Script Settings
 
-*
+* Brand Name, Logo, Favicon, SEO, Google AdSense, Privacy Policy & Terms And Conditions is editable.
 
 ### Editable Page Titles
 
-
+* Every page title is editable.
 
 ### Editable Terms And Conditions
 
-
+* Terms And Conditions text is editable.
 
 ### Editable Privacy Policy
 
-
+* Privacy Policy text is editable.
 
 ### Editable Copyright Text
 
-
+* Copyright Text is editable.
 
 ### Lazy Loading Images
 
-* All images is&#x20;
+* All images are loading with lazy load to speed up the script.

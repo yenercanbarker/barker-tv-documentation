@@ -4,16 +4,13 @@
 
 ## Guides
 
-* [Features](guides/features.md)
 * [Installation](guides/installation.md)
 * [Configuration](guides/configuration.md)
+* [Features](guides/features.md)
 
 ## Fundamentals
 
-* [Channels](fundamentals/channels.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [🎬 Channels](fundamentals/channels.md)
 
 ## Use Cases
 
@@ -23,7 +20,3 @@
   * [GitHub Integration](use-cases/for-engineers/github-integration.md)
 * [For Support](use-cases/for-support/README.md)
   * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)

@@ -57,16 +57,16 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [channels.md](fundamentals/channels.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}
