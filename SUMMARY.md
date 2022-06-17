@@ -11,6 +11,8 @@
 ## Fundamentals
 
 * [🎬 Channels](fundamentals/channels.md)
+* [🌟 Featured Channels](fundamentals/featured-channels.md)
+* [🙌 Channel Suggestions](fundamentals/channel-suggestions.md)
 
 ## Use Cases
 

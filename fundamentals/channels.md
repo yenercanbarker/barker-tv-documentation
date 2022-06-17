@@ -6,7 +6,7 @@ description: One of the app's core feature is Channel
 
 All available routes for Channels is written down below :&#x20;
 
-{% swagger method="get" path="/panel/channels" baseUrl="" summary="Channel List" %}
+{% swagger method="get" path="/panel/channel/list" baseUrl="" summary="Channel List" %}
 {% swagger-description %}
 Return Channel List as Datatable
 {% endswagger-description %}
