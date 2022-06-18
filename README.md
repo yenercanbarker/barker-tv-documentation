@@ -53,8 +53,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/channels.md" %}
-[channels.md](fundamentals/channels.md)
+{% content-ref url="modules/admin-panel/channels.md" %}
+[channels.md](modules/admin-panel/channels.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
