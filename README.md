@@ -27,8 +27,6 @@ CSS 3
 
 Bootstrap 5
 
-AdminLTE 4
-
 ### Guides: Jump right in
 
 Follow our handy guides to get started on the basics as quickly as possible:
