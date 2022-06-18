@@ -11,9 +11,9 @@
 ## Fundamentals
 
 * [Admin Panel](fundamentals/admin-panel/README.md)
-  * [🎬 Channels](fundamentals/admin-panel/channels.md)
-  * [🙌 Channel Suggestions](fundamentals/admin-panel/channel-suggestions.md)
-  * [🌟 Featured Channels](fundamentals/admin-panel/featured-channels.md)
+  * [🎬 Channels](fundamentals/channels.md)
+  * [🙌 Channel Suggestions](fundamentals/channel-suggestions.md)
+  * [🌟 Featured Channels](fundamentals/featured-channels.md)
   * [❌ Closed Channels](fundamentals/admin-panel/closed-channels.md)
   * [🌐 Languages](fundamentals/admin-panel/languages.md)
   * [🗺 Countries](fundamentals/admin-panel/countries.md)
@@ -33,11 +33,7 @@
   * [🌐 Change Language](fundamentals/user-actions/change-language.md)
   * [📃 Sitemap.xml](fundamentals/user-actions/sitemap.xml.md)
 
-## Use Cases
+## Informations from Developer
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [For Backend Developers](informations-from-developer/for-backend-developers.md)
+* [For Frontend Developers](informations-from-developer/for-frontend-developers.md)
