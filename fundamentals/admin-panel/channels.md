@@ -1,5 +1,5 @@
 ---
-description: One of the app's core feature is Channel
+description: Channels API Documentation
 ---
 
 # 🎬 Channels

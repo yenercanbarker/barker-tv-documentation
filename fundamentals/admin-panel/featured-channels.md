@@ -1,5 +1,5 @@
 ---
-description: Featured Channels API
+description: Featured Channels API Documentation
 ---
 
 # 🌟 Featured Channels

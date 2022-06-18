@@ -1,5 +1,5 @@
 ---
-description: Users can Suggest Channels.
+description: Channel Suggestions API Documentation
 ---
 
 # 🙌 Channel Suggestions
