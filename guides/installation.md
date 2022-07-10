@@ -6,9 +6,9 @@ description: You can follow the steps on the right below to install the script.
 
 ## Deployment
 
-Installation for Cpanel : [https://www.youtube.com/watch?v=qdw5WqBE9ys\&list=LL\&index=2](https://www.youtube.com/watch?v=qdw5WqBE9ys\&list=LL\&index=2)
+Installation for Cpanel : Just upload the .zip file to your hosting an extract it, thats all.
 
-Installation for Any Shared Hosting : [https://www.youtube.com/watch?v=6g8G3YQtQt4](https://www.youtube.com/watch?v=6g8G3YQtQt4)
+Installation for Any Shared Hosting : Just upload the .zip file to your hosting an extract it, thats all.
 
 
 
@@ -29,3 +29,7 @@ Installation for Custom Hosting with SSH :&#x20;
 7- If images are not loading, add ReWrite Access Rule in .htaccess file which you can check this out  : [https://dev.to/vumanhtrung/setup-an-htaccess-file-for-redirecting-to-laravel-s-public-folder-1e1j](https://dev.to/vumanhtrung/setup-an-htaccess-file-for-redirecting-to-laravel-s-public-folder-1e1j)&#x20;
 
 Installation done.
+
+
+
+* You need to give all permissions to **Images** folder, to upload images.
