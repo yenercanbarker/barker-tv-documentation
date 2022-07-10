@@ -28,8 +28,11 @@ Installation for Custom Hosting with SSH :&#x20;
 
 7- If images are not loading, add ReWrite Access Rule in .htaccess file which you can check this out  : [https://dev.to/vumanhtrung/setup-an-htaccess-file-for-redirecting-to-laravel-s-public-folder-1e1j](https://dev.to/vumanhtrung/setup-an-htaccess-file-for-redirecting-to-laravel-s-public-folder-1e1j)&#x20;
 
-Installation done.
-
 
 
 * You need to give all permissions to **Images** folder, to upload images.
+* After Installation you need to create a mysql database on hosting, and then upload the .sql file which is inside the .zip file of Barker TV.
+
+
+
+Installation is done! You need to configure the app right now.
